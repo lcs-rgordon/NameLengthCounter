@@ -11,7 +11,7 @@ import SwiftUI
 struct NameLengthCounterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NameListView()
         }
     }
 }
